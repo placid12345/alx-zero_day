@@ -1,2 +1,3 @@
-#!/bin/alx
-echo "ALX Schoolis cool"
+
+#!/bash/alx
+echo "ALX School"
